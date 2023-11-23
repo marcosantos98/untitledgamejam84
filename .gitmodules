@@ -1,0 +1,6 @@
+[submodule "raylib"]
+	path = raylib
+	url = https://github.com/raysan5/raylib.git
+[submodule "lua"]
+	path = lua
+	url = https://github.com/lua/lua.git
