@@ -4,3 +4,9 @@
 [submodule "lua"]
 	path = lua
 	url = https://github.com/lua/lua.git
+[submodule "stb"]
+	path = stb
+	url = https://github.com/nothings/stb.git
+[submodule "arena"]
+	path = arena
+	url = https://github.com/tsoding/arena.git
